@@ -1,6 +1,7 @@
 # ASG1
 
-<h1>TESTING</h1>
-<p>
-    HELLO
-</p>
+# heading 1
+
+## heading 2
+
+###### heading
