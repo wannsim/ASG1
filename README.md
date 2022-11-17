@@ -23,7 +23,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 
 ## Profile of members
 
-### Jisoo
+### :sparkles:Jisoo:sparkles:
 
 - **Nationality**: Korean
 - **Date of Birth**: 03 January 1995
@@ -36,7 +36,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - Have a pet dog (Name: **dalgom**)
 - **Instagram**: [sooyaaa\_](https://www.instagram.com/sooyaaa__/)
 
-### Jennie
+### :sparkles:Jennie:sparkles:
 
 - **Nationality**: Korean
 - **Date of Birth**: 16 January 1996
@@ -50,7 +50,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **Instagram**: [jennierubyjane](https://www.instagram.com/jennierubyjane/)
 - **Youtube**: [Jennierubyjane Official](https://www.youtube.com/c/JennierubyjaneOfficial_BLACKPINK)
 
-### Rosé
+### :sparkles:Rosé:sparkles:
 
 - **Nationality**: New Zealander
 - **Date of Birth**: 11 February 1997
@@ -64,7 +64,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **Instagram**: [roses_are_rosie](https://www.instagram.com/roses_are_rosie/)
 - **Youtube**: [Rosesarerosie](https://www.youtube.com/c/ROS%C3%89Official_BLACKPINK)
 
-### Lisa
+### :sparkles:Lisa:sparkles:
 
 - **Nationality**: Thai
 - **Date of Birth**: 27 March 1997
@@ -154,8 +154,36 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **Ready For Love**
 - Realised on 16 September 2022
 
-## Recent Activities
+## World Tour 2022:satisfied:
 
-- Currently on World Tour
+#### Countries:
+
+- Seoul
+- North America: Dallas, Houston, Atlanta, Hamilton, Chicago , Newark, Los Angeles
+- Europe: London, Barcelona, Cologne, Paris, Berlin, Amsterdam
+- Asia: Bangkok, Hongkong, Riyadah, Abu Dhabi, Kuala Lumpur, Jakarta, Kaohsiung, Manila, **Singapore**,
+- Australia: MelBourne, Sydney, AuckLand
+
+#### Information on concert in Singapore
+
+Date: **13 May 2023**
+Location: **Singapore Stadium**
+
+###### Tickets
+
+- **Membership**: 7 Nov 2022 to 9 Nov 2022: BLINK MEMBERSHIP Presale
+- BLINK MEMBERSHIP:
+  - **21 November 2022**
+  - Early Bird: 10AM
+  - General: 11AM
+- Sponser Presale:
+  - **22 November 2022**
+  - 10AM
+- Live Nation Presale
+  - **23 November 2022**
+  - 10AM
+- General Sale
+  - **24 November 2022**
+  - 10 AM
 
 ## Features
