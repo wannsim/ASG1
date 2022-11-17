@@ -82,6 +82,78 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 
 ## Songs from BLACKPINK
 
+### Square One
+
+- **Boombayah**
+- **Whistle**
+- Realised on 8 August 2016
+
+### Square Two
+
+- **Playing With Fire**
+- **Stay**
+- Realised on 1 November 2016
+
+### As If Its's Your Last
+
+- **As If Its's Your Last**
+- Realised on 22 June 2017
+
+### Square Up
+
+- **Ddu-Du,Ddu-Du**
+- **Forever Young**
+- **Really**
+- **See U Later**
+- Realised on 15 June 2018
+
+### Kiss and Make Up
+
+- **Kiss and Make Up**
+- Collab with Dua Lipa
+- Realised on 19 October 2018
+
+### Kill This Love
+
+- **Kill This Love**
+- **Don't Know What To Do**
+- **Kick It**
+- **Hope Not**
+- **Ddu-du,Ddu du(Remix)**
+- Realised on 5 April 2019
+
+### Sour Candy
+
+- **Sour Candy**
+- Collab with Lady Gaga
+- Realised on 28 May 2020
+
+### The Album
+
+- **How You Like That**
+- **Ice Cream**
+  - Collab with Selena Gomez
+- **Pretty Savage**
+- **Bet You Wanna**
+  - Collab with Cardi B
+- **Lovesick Girls**
+- **Crazy Over You**
+- **Love To Hate Me**
+- **You Never Know**
+- Realised on 2 October 2020
+
+### Bornpink (LATEST)
+
+- **Pink Venom**
+- **Shut Down**
+- **Typa Girl**
+- **Happiest Girl**
+- **Tally**
+- **Yeah Yeah Yeah**
+- **Hard To Love**
+- **Ready For Love**
+- Realised on 16 September 2022
+
 ## Recent Activities
 
 - Currently on World Tour
