@@ -5,7 +5,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 ## Profile of BLACKPINK
 
 - Debut Date:
-  - **08 August 2016**
+  :point_right: **08 August 2016**
   - Debuted for **6 Years**
 - **Fandom Name**: BLINKS
 - Consists of **4 Members**
