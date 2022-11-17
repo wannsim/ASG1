@@ -5,7 +5,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 ## Profile of BLACKPINK
 
 - Debut Date:
-  :point_right: **08 August 2016**
+  - **08 August 2016**
   - Debuted for **6 Years**
 - **Fandom Name**: BLINKS
 - Consists of **4 Members**
@@ -26,8 +26,8 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 ### :sparkles:Jisoo:sparkles:
 
 - **Nationality**: Korean
-- **Date of Birth**: 03 January 1995
-- **Birth name**: Kim Jisoo
+- **Date of Birth**: 03 January 1995:birthday:
+- **Birth name**: Kim Jisoo :rabbit:
 - **Position**: Lead Vocalist, Visual
 - **Height**: 162cm
 - **weight**: 44kg
@@ -39,7 +39,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 ### :sparkles:Jennie:sparkles:
 
 - **Nationality**: Korean
-- **Date of Birth**: 16 January 1996
+- **Date of Birth**: 16 January 1996:birthday:
 - **Birth name**: Kim Jennie
 - **Position**: Main Rapper, Lead Vocalist
 - **Height**: 163cm
@@ -53,7 +53,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 ### :sparkles:Rosé:sparkles:
 
 - **Nationality**: New Zealander
-- **Date of Birth**: 11 February 1997
+- **Date of Birth**: 11 February 1997:birthday:
 - **Birth name**: Roseanne Park
 - **Position**: Main Vocalist, Lead Dancer
 - **Height**: 168.7cm
@@ -67,7 +67,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 ### :sparkles:Lisa:sparkles:
 
 - **Nationality**: Thai
-- **Date of Birth**: 27 March 1997
+- **Date of Birth**: 27 March 1997:birthday:
 - **Birth name**: Pranpriya Manoban (Legalized to Lalisa Manoban)
 - **Position**: Main Dancer, Lead Rapper, Sub Vocalist, Maknae (youngest)
 - **Height**: 166.5 cm
@@ -80,26 +80,26 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **Instagram**: [lalalalisa_m](https://www.instagram.com/lalalalisa_m/)
 - **Youtube**: [Lilifilm](https://www.youtube.com/@lalalalisa_m)
 
-## Songs from BLACKPINK
+## Songs from BLACKPINK:musical_note:
 
-### Square One
+### :musical_note:Square One:musical_note:
 
 - **Boombayah**
 - **Whistle**
 - Realised on 8 August 2016
 
-### Square Two
+### :musical_note:Square Two:musical_note:
 
 - **Playing With Fire**
 - **Stay**
 - Realised on 1 November 2016
 
-### As If Its's Your Last
+### :musical_note:As If Its's Your Last:musical_note:
 
 - **As If Its's Your Last**
 - Realised on 22 June 2017
 
-### Square Up
+### :musical_note:Square Up:musical_note:
 
 - **Ddu-Du,Ddu-Du**
 - **Forever Young**
@@ -107,13 +107,13 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **See U Later**
 - Realised on 15 June 2018
 
-### Kiss and Make Up
+### :musical_note:Kiss and Make Up:musical_note:
 
 - **Kiss and Make Up**
 - Collab with Dua Lipa
 - Realised on 19 October 2018
 
-### Kill This Love
+### :musical_note:Kill This Love:musical_note:
 
 - **Kill This Love**
 - **Don't Know What To Do**
@@ -122,13 +122,13 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **Ddu-du,Ddu du(Remix)**
 - Realised on 5 April 2019
 
-### Sour Candy
+### :musical_note:Sour Candy:musical_note:
 
 - **Sour Candy**
 - Collab with Lady Gaga
 - Realised on 28 May 2020
 
-### The Album
+### :musical_note:The Album:musical_note:
 
 - **How You Like That**
 - **Ice Cream**
@@ -142,7 +142,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **You Never Know**
 - Realised on 2 October 2020
 
-### Bornpink (LATEST)
+### :musical_note:Bornpink (LATEST):musical_note:
 
 - **Pink Venom**
 - **Shut Down**
@@ -156,7 +156,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 
 ## World Tour 2022:satisfied:
 
-#### Countries:
+#### :earth_asia:Countries:earth_asia::
 
 - Seoul
 - North America: Dallas, Houston, Atlanta, Hamilton, Chicago , Newark, Los Angeles
@@ -164,12 +164,12 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - Asia: Bangkok, Hongkong, Riyadah, Abu Dhabi, Kuala Lumpur, Jakarta, Kaohsiung, Manila, **Singapore**,
 - Australia: MelBourne, Sydney, AuckLand
 
-#### Information on concert in Singapore
+#### Information on concert in Singapore:heart_eyes:
 
 Date: **13 May 2023**
 Location: **Singapore Stadium**
 
-###### Tickets
+###### :ticket:Tickets:ticket:
 
 - **Membership**: 7 Nov 2022 to 9 Nov 2022: BLINK MEMBERSHIP Presale
 - BLINK MEMBERSHIP:
