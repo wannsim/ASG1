@@ -44,7 +44,7 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **Position**: Main Rapper, Lead Vocalist
 - **Height**: 163cm
 - **weight**: 45kg
-- She lived in New **Zealand for 5 years**
+- She lived in **New Zealand for 5 years**
 - Made her **acting debut** with HBO's "The Idol"
 - Have 2 dogs (Name: **Kuma and Kai**)
 - **Instagram**: [jennierubyjane](https://www.instagram.com/jennierubyjane/)
