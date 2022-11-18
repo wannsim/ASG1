@@ -201,7 +201,7 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 
 ##### Seating Plan
 
-![](https://images.app.goo.gl/jHgjfNjkEqbDZsRD6)
+![](<https://images.![](../../../../../../../C:/Users/waanx/OneDrive%20-%20Ngee%20Ann%20Polytechnic/Desktop/Assignment%201/ASG1/NST-Blackpink23-seatmap-full-v2.jpg)app.goo.gl/jHgjfNjkEqbDZsRD6>)
 
 - CAT 1:
   - ONLY FOR BLINK VIP
