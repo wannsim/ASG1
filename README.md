@@ -201,7 +201,7 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 
 ##### Seating Plan
 
-![Seating Plan](https://images.app.goo.gl/jHgjfNjkEqbDZsRD6)
+![Seating Plan](/images.app.goo.gl/jHgjfNjkEqbDZsRD6)
 
 - CAT 1:
   - ONLY FOR BLINK VIP
