@@ -1,6 +1,17 @@
 # BLACKPINK'S Merch
 
 This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, keychains, photocards and many more. For K-POP fans or BLACKPINK'S fan (known as BLINKS). Beside selling their merch, the website also contain their profile and history of the BLACKPINK. BLINKS or anyone can use this website to learn and buy things of BLACKPINK.
+In summary this website provides users with information aboutn BLACKPINK and to shop for BLACKPINK's merch, at the same time to promote BLACKPINK and increase sales.
+
+## Features
+
+- History of Blackpink
+- Blackpink member's profile
+- Ongoing activies(concert)
+- Selling merch
+  - albums
+  - photocards
+  - shirts
 
 ## Profile of BLACKPINK
 
@@ -154,6 +165,23 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 - **Ready For Love**
 - Realised on 16 September 2022
 
+### :musical_note:SOLO:musical_note:
+
+- **SOLO**
+- Jennie's solo song
+
+### :musical_note:On The Ground:musical_note:
+
+- **On The Ground**
+- **Gone**
+- Rosé's solo songs
+
+### :musical_note:Lalisa:musical_note:
+
+- **Lalisa**
+- **Money**
+- Lisa's solo song
+
 ## World Tour 2022:satisfied:
 
 #### :earth_asia:Countries:earth_asia::
@@ -166,24 +194,62 @@ This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, k
 
 #### Information on concert in Singapore:heart_eyes:
 
-Date: **13 May 2023**
-Location: **Singapore Stadium**
+- Date: **13 May 2023, Saturday**
+- Time: **7.30PM**
+- Location: **Singapore Stadium**
+- Tickets can be bought from: [ticketmaster](https://ticketmaster.sg/)
 
-###### :ticket:Tickets:ticket:
+##### Seating Plan
 
+![Siting Plan](https://images.app.goo.gl/jHgjfNjkEqbDZsRD6)
+
+- CAT 1:
+  - ONLY FOR BLINK VIP
+  - Price: $398
+- CAT 2:
+  - STANDING
+  - Price: $328
+- CAT 3:
+  - STANDING
+  - Price: $248
+- CAT 4:
+  - STANDING
+  - Price: $168
+- CAT 5:
+  - SEATED
+  - Price: $328
+- CAT 6
+  - SEATED
+  - Price: $278
+- CAT 7
+  - SEATED
+  - Price: $228
+- CAT 8
+  - SEATED
+  - Price: $208
+- CAT 9
+  - SEATED
+  - Price: $168
+- CAT 6
+  - SEATED (Restricteed view)
+  - Price: $168
+
+##### :ticket:Tickets:ticket:
+
+- Price range: **$168-$398**
 - **Membership**: 7 Nov 2022 to 9 Nov 2022: BLINK MEMBERSHIP Presale
-- BLINK MEMBERSHIP:
+- :heart:BLINK MEMBERSHIP:
   - **21 November 2022**
   - Early Bird: 10AM
   - General: 11AM
-- Sponser Presale:
+- :heart:PayPal Presale:
   - **22 November 2022**
   - 10AM
-- Live Nation Presale
+- :heart:Live Nation Presale
   - **23 November 2022**
   - 10AM
-- General Sale
+- :heart:General Sale
   - **24 November 2022**
   - 10 AM
 
-## Features
+## Sales item (merch)
