@@ -205,34 +205,34 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 
 - CAT 1:
   - ONLY FOR BLINK VIP
-  - Price: $398
+  - Price: **$398**
 - CAT 2:
   - STANDING
-  - Price: $328
+  - Price: **$328**
 - CAT 3:
   - STANDING
-  - Price: $248
+  - Price: **$248**
 - CAT 4:
   - STANDING
-  - Price: $168
+  - Price: **$168**
 - CAT 5:
   - SEATED
-  - Price: $328
+  - Price: **$328**
 - CAT 6
   - SEATED
-  - Price: $278
+  - Price: **$278**
 - CAT 7
   - SEATED
-  - Price: $228
+  - Price: **$228**
 - CAT 8
   - SEATED
-  - Price: $208
+  - Price: **$208**
 - CAT 9
   - SEATED
-  - Price: $168
+  - Price: **$168**
 - CAT 6
   - SEATED (Restricteed view)
-  - Price: $168
+  - Price: **$168**
 
 ##### :ticket:Tickets:ticket:
 
@@ -253,3 +253,89 @@ In summary this website provides users with information aboutn BLACKPINK and to 
   - 10 AM
 
 ## Sales item (merch)
+
+### LightStick
+
+- Price: $58.00
+
+### Bornpink Album
+
+- ALBUM BOX SETN VERSION
+  - 3 versions (Black, Pink, Grey)
+  - Price: $18.51
+- DIGIPACK VERSION
+  - 4 versions (Jisoo, Jennie, Lisa, Rosé)
+  - Price: $12.22
+- KIT ALBUM
+  - Price: $27.86
+- VINYL LP (LIMITED EDITION)
+  - Price: $55.53
+
+### The Album
+
+- ALUBUM BOX SET VERSION
+  - 4 versions (Black, Pink, Black with Pink holo side, Pink Holographic)
+  - Price: $ 30.00
+
+### Kill This Love
+
+- ALBUM VERSION
+  - 2 versions (Black and Pnk)
+  - Price: $25.00
+
+### Square Up
+
+- ALBUM VERSION
+  - 2 versions (Black and Pink)
+  - Price: $24.00
+
+### Solo
+
+- ALBUM VERSION
+  - Price: $21.00
+
+### Lalisa
+
+- ALBUM VERSION
+  - 2 version (Black and Gold)
+  - Price: $27.00
+
+### On The Ground
+
+- ALBUM VERSION
+  - Price: $29.00
+
+### Bornpink World Tour Merch
+
+- BLACKPINK PHOTO PACKAGE
+  - Price: $17.65
+- BLACKPINK LYRICSS CARD + PHOTO CARD SET
+  - Price: $ 14.86
+- BLACKPINK CHARACTOR PLUSH TOY
+  - 4 versions
+  - Price: $36.23
+- BLACKPINK BEANIE
+  - 2 versions (Black and Grey)
+  - Price: $23.22
+- BLACKPINK PHOTO KEYRING
+  - 4 versions (Jisoo, Jennie, Lisa, Rosé)
+  - Price: $23.22
+- BLACKPINK STICKER PACK
+  - Price: $7.43
+- BLACKPINK TOUR T-SHIRTS (TYPE 1)
+  - Price: $39.01
+- BLACKPINK TOUR T-SHIRTS (TYPE 2)
+  - 2 version (White and Grey)
+  - Price: $39.01
+- BLACKPINK TOUR T-SHIRTS (TYPE 3)
+  - 2 version (White and Pink)
+  - Price: $39.01
+- BLACKPINK TOUR T-SHIRTS (TYPE 4)
+  - 2 version (White and Grey)
+  - Price: $39.01
+- BLACKPINK HAIT PIN
+  - 3 versions (White, Pink, Black)
+  - Price: $12.07
+- BLACKPINK POP UP PHOTO BOOK
+  - 4 versions (Jisoo, Jennie, Lisa, Rosé)
+  - Price: $12.07
