@@ -256,6 +256,8 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 
 ### LightStick
 
+![](official_blackpink_lightstick__1632636011_30edd6ef.jpg)
+
 - Price: $58.00
 
 ### Bornpink Album
