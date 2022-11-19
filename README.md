@@ -20,10 +20,10 @@ In summary this website provides users with information aboutn BLACKPINK and to 
   - Debuted for **6 Years**
 - **Fandom Name**: :two_hearts:BLINKS:two_hearts:
 - Consists of **4 Members**
-  1. Jisoo:fire:
-  2. Jennie:fire:
-  3. Rosé:fire:
-  4. Lisa:fire:
+  1. :fire:Jisoo:fire:
+  2. :fire:Jennie:fire:
+  3. :fire:Rosé:fire:
+  4. :fire:Lisa:fire:
 - Under **YG Entertainment**
 - Performed at **Coachella in 2019**
 - :crown:Collaborated with **Dua Lipa, Lady Gaga, Selena Gomez and Cardi B**:crown:
@@ -369,3 +369,8 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 - :gift_heart:BLACKPINK POP UP PHOTO BOOK
   - 4 versions (Jisoo, Jennie, Lisa, Rosé)
   - Price: $12.07
+
+## MV
+
+- Their latest MV:
+  [Shut Down MV](https://www.youtube.com/watch?v=POe9SOEKotk)
