@@ -315,6 +315,10 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 - Tried to add buttons and drop down, but it was too difficult and did not managed to do it
 - Had trouble designing the page to make it look professional
 
+# Wireframe
+
+[Mobile and desktop view](ID_S10242681_YeeWanSim_Assg1_wireframe.xd)
+
 ## Credits
 
 ### Content
