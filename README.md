@@ -91,67 +91,7 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 - :ribbon:**Instagram**: [lalalalisa_m](https://www.instagram.com/lalalalisa_m/):ribbon:
 - :ribbon:**Youtube**: [Lilifilm](https://www.youtube.com/@lalalalisa_m):ribbon:
 
-## Songs from BLACKPINK:musical_note:
-
-### :musical_note:Square One:musical_note:
-
-- **Boombayah**
-- **Whistle**
-- Realised on 8 August 2016
-
-### :musical_note:Square Two:musical_note:
-
-- **Playing With Fire**
-- **Stay**
-- Realised on 1 November 2016
-
-### :musical_note:As If Its's Your Last:musical_note:
-
-- **As If Its's Your Last**
-- Realised on 22 June 2017
-
-### :musical_note:Square Up:musical_note:
-
-- **Ddu-Du,Ddu-Du**
-- **Forever Young**
-- **Really**
-- **See U Later**
-- Realised on 15 June 2018
-
-### :musical_note:Kiss and Make Up:musical_note:
-
-- **Kiss and Make Up**
-- Collab with Dua Lipa
-- Realised on 19 October 2018
-
-### :musical_note:Kill This Love:musical_note:
-
-- **Kill This Love**
-- **Don't Know What To Do**
-- **Kick It**
-- **Hope Not**
-- **Ddu-du,Ddu du(Remix)**
-- Realised on 5 April 2019
-
-### :musical_note:Sour Candy:musical_note:
-
-- **Sour Candy**
-- Collab with Lady Gaga
-- Realised on 28 May 2020
-
-### :musical_note:The Album:musical_note:
-
-- **How You Like That**
-- **Ice Cream**
-  - Collab with Selena Gomez
-- **Pretty Savage**
-- **Bet You Wanna**
-  - Collab with Cardi B
-- **Lovesick Girls**
-- **Crazy Over You**
-- **Love To Hate Me**
-- **You Never Know**
-- Realised on 2 October 2020
+## BLACKPINK latest album and songs:musical_note:
 
 ### :musical_note:Bornpink (LATEST):musical_note:
 
@@ -164,23 +104,6 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 - **Hard To Love**
 - **Ready For Love**
 - Realised on 16 September 2022
-
-### :musical_note:SOLO:musical_note:
-
-- **SOLO**
-- Jennie's solo song
-
-### :musical_note:On The Ground:musical_note:
-
-- **On The Ground**
-- **Gone**
-- Rosé's solo songs
-
-### :musical_note:Lalisa:musical_note:
-
-- **Lalisa**
-- **Money**
-- Lisa's solo song
 
 ## World Tour 2022:satisfied:
 
@@ -299,17 +222,20 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 
 ### Solo
 
+- Jennie's solo album
 - :gift_heart:ALBUM VERSION
   - Price: $21.00
 
 ### Lalisa
 
+- Lisa's solo album
 - :gift_heart:ALBUM VERSION
   - 2 version (Black and Gold)
   - Price: $27.00
 
 ### On The Ground
 
+- Rosé's solo album
 - :gift_heart:ALBUM VERSION
   - Price: $29.00
 
