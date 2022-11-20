@@ -3,12 +3,14 @@
 This Website sells BLACKPINK'S Merch which includes albums, lightstick, shirt, keychains, photocards and many more. For K-POP fans or BLACKPINK'S fan (known as BLINKS). Beside selling their merch, the website also contain their profile and history of the BLACKPINK. BLINKS or anyone can use this website to learn and buy things of BLACKPINK.
 In summary this website provides users with information aboutn BLACKPINK and to shop for BLACKPINK's merch, at the same time to promote BLACKPINK and increase sales.
 
+## Design Process
+
+- For this website, it is mainly for Blackpink's fans or any K-POP fans. The users would want to learn more about Blackpink and to get thier merch. The website should be well organised so that users would be able to find the information or item that they are looking for.
+
 ## Features
 
-- History of Blackpink
-- Blackpink member's profile
-- Ongoing activies(concert)
-- Selling merch
+- Allow users to learn about the history of Blackpink, Blackpink member's profile, Ongoing activies(concert)
+- it also sells Blackpink's merch
   - albums
   - photocards
   - shirts
@@ -300,3 +302,34 @@ In summary this website provides users with information aboutn BLACKPINK and to 
 
 - Their latest MV:
   [Shut Down MV](https://www.youtube.com/watch?v=POe9SOEKotk)
+
+## Testing
+
+- Started with research on what information to put into this website
+- Pick out useful information
+- Website looks almost similar in different screen sizes.
+
+### Problems in Wireframe:
+
+- Never used it before, hence, I would need to do a lot of research about how to use before getting started (also not very sure how specific a wireframe should be)
+- Tried to add buttons and drop down, but it was too difficult and did not managed to do it
+- Had trouble designing the page to make it look professional
+
+## Credits
+
+### Content
+
+- https://www.btsmercharmy.com/?spm=..product_5ba8c2c6-ca7d-4a23-8698-9290329db7db.header_1.1
+- https://weverseshop.io/en/home
+- shopee
+- https://krmerchs.com/search?q=rose&options%5Bprefix%5D=last
+- https://en.ygselect.com/category/blackpink/43/
+- https://www.ktown4u.com/
+- https://kprofiles.com/black-pink-members-profile/
+- https://www.hypable.com/blackpink-song-album-complete-guide/
+- https://www.scmp.com/magazines/style/celebrity/article/3149518/blackpinks-pets-lisa-jennie-rose-and-jisoo-all-own
+
+### Media
+
+- https://www.google.com/search?q=blackpink+lightstick&tbm=isch&ved=2ahUKEwjBgNPo27f7AhWXKbcAHbv5BWIQ2-cCegQIABAA&oq=blackpink+lightstick&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEIAEEBg6BAgAEEM6BwgAELEDEEM6CwgAEIAEELEDEIMBOgkIABCABBAKEBhQnAlYiipg0itoBHAAeACAAZgBiAHRCpIBBDIzLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=rHh3Y8H6GJfT3LUPu_OXkAY&bih=601&biw=1280#imgrc=3XnmlpToPoOQhM
+- https://www.google.com/search?q=blackpink+concert+seating+plan+singapore&tbm=isch&source=hp&biw=1280&bih=601&ei=mnh3Y72wAoO64-EPleqm6Ac&iflsig=AJiK0e8AAAAAY3eGqutoDcZh5bnANlhFgYhgQ9ksFyr1&oq=blackpink+concert+seating&gs_lcp=CgNpbWcQAxgBMgUIABCABDIHCAAQgAQQGDIHCAAQgAQQGDIHCAAQgAQQGDIHCAAQgAQQGDIHCAAQgAQQGDoICAAQgAQQsQM6CwgAEIAEELEDEIMBOgQIABADOgYIABAIEB5QAFjGLWCyOWgAcAB4AIABqwOIAZQQkgEKMjEuMS4yLjAuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img#imgrc=oAxyu1VxwndEsM
