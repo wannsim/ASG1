@@ -558,6 +558,31 @@ iframe{
         margin-right: 5px;
         line-height: 30px;
     }
+    .profilePage1{
+        flex-wrap: wrap;
+    }
+    .profilePage2{
+        flex-wrap: wrap;
+    }
+    .debutImg{
+        width: 300px;
+        height: 250px;
+        margin-bottom: 30px;
+    }
+    .indivProfileContainer{
+        flex-wrap: wrap;
+    }
+    .concertContainer{
+        flex-wrap:wrap;
+        flex-direction: column-reverse;
+    }
+    .seatingContainer{
+        flex-wrap: wrap;
+    }
+    .seatingPlan{
+        width: 420px;
+        height: 500px;
+    }
 }
     
 
