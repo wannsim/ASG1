@@ -1,0 +1,563 @@
+
+/*for all*/
+body{
+    background:#FEF2F7;
+}
+img{
+    border-radius: 30px;
+}
+.grey{
+    color: grey;
+}
+.pink{
+    color: rgb(249, 140, 158);
+}
+.center{
+    text-align: center;
+}
+h1{
+    font-family: STXihei;
+    font-size: 90px;
+    margin-top: 100px;
+}
+h2{
+    font-size: 50px;
+    font-family: STXihei;
+}
+h3{
+    font-size: 30px;
+    font-family: STXihei;
+}
+                    /*NAVIGATION */
+.mainNav{
+    overflow: hidden;
+    position: fixed;
+    background: #FBC1DE;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    padding: 0;
+    margin: 0;
+}
+.logoimg{
+    margin-top: 5px;
+    border-radius: 20px;
+    width: 179px;
+    height: 77px;
+    background: none;
+}
+.navList{
+    float: right;
+    margin-right: 40px;
+    justify-content: center;
+}
+.navContent{
+    display: inline-block;
+    line-height: 30px;
+    margin-left: 90px;
+    margin-right: 15px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.navContent a{
+    color: #FBC1DE;
+    background: black;
+    background-size: 120px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Segoe UI;
+    padding: 10px;
+    cursor: pointer;
+}
+.mainNav a:hover{
+    background-color: #ACACF9;
+}
+.mainNav a.active{
+    background-color: none;
+    color: black;
+    border: #ACACF9;
+}
+
+nav .icon{
+    color: black;
+    font-size: 30px;
+    line-height: 60px;
+    float: right;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.mainheading-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.mainHeading{
+    text-align: left;
+    padding: 50px;
+    line-height: 20px;
+}
+                    /* HOMEPAGE*/
+/*heading*/
+.headingimg{
+    border-radius: 30px;
+    width: 456px;
+    height: 375px;
+    padding: 20%;
+}
+
+/*content on 'updates' */
+.updateList{
+    line-height: 50px;
+    font-size: 30px;
+    font-family: New Gulim;
+}
+
+/*postition*/
+.mainHeading_container{
+    display: flex;
+    justify-content: space-between;
+}
+.mainHeadingItem{
+    display: flex;
+    flex-basis: 50%;
+    flex-direction: column;
+}
+
+/*navigation from Home page*/
+#navFromHome a{
+    font-size: 50px;
+    font-family: MS UI Gothic;
+    color:#FF7ED3;
+}
+#navFromHome a:hover{
+    color:black;
+}
+.toMerch{
+    text-align: center;
+}
+
+/*content on 'tickets'*/
+.ticketsContent{
+    font-family: New Gulim;
+    line-height: 20px;
+    font-size: 30px;
+}
+.ticketsContainer{
+    display: flex;
+    justify-content: space-between;
+  }
+.ticketsItem{
+    display: flex;
+    flex-basis: 50%;
+    padding: 2%;
+    flex-direction: column;
+  }
+.concertImg{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+  
+/*contents on ' about blackpink'*/
+.aboutContent{
+    font-family: New Gulim;
+    line-height: 40px;
+    font-size: 30px;
+}
+.grpPhoto_home{
+    padding: 20px;
+}
+
+/*profile position*/
+.profileContainer{
+    display: flex;
+}
+.profileItem{
+    display: flex;
+    flex-basis: 50%;
+    flex-direction: column;
+}
+
+/*merch photo*/
+.merchImg{
+    width: 249px;
+    height: 291px;
+}
+/* merch position*/
+.homeMerch{
+    font-size: 20px;
+    font-family: New Gulim;
+}
+.homeMerchContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.merchItem{
+    display: inline-block;
+    justify-content: space-around;
+    flex-basis: 30%;
+    flex-direction: column;
+    margin: auto;
+    padding-right: 80px;
+    margin-bottom: 30px;
+}
+.home-merchList{
+    padding-top:40px;
+    font-size: 40px;
+}
+
+/*MV*/
+iframe{
+    margin-left: 10%;
+}
+
+/*footer*/
+.footerNav{
+    display: inline-block;
+    overflow: hidden;
+    background: #FBC1DE;
+    background-size: 100%;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    margin-top: 30px;
+    margin-right: 0px;
+}
+.navFooterContent a{
+    color: black;
+    background: none;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px;
+    font-family: Segoe UI;
+}
+.navFooterList{
+    float: right;
+    margin-right: 80px;
+    margin-left: 40px
+
+}
+.navFooterContent{
+    display: inline-block;
+    line-height: 50px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+
+
+                    /*MERCH PAGE*/
+.cat{
+    margin-top: 150px;
+}
+
+.end{
+    margin-top: 50px;
+}
+.cartImg{
+    width: 40px;
+    height: 40px;
+}
+.cartNav{
+    justify-content: center;
+    text-align: center;
+}
+.categoryNav{
+    font-family: Segoe UI;
+    font-size: 30px;
+}
+.lightstickContent{
+    font-size: 20px;
+    font-family: New Gulim;
+}
+.addbtn{
+    border-radius: 30px;
+    border: none;
+    background-color:#FF9C9C;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.addbtn:hover{
+    color:#FF9C9C;
+    background: black;
+    transition: 0.4s;
+}
+
+.merchItem{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px,auto));
+    gap: 1.5rem;
+}
+.merchbox{
+    position:static;
+}
+.merchbox:hover{
+    padding: 10px;
+    border: 1px solid;
+    transition: 0.4s;
+}
+.cartbox{
+    display:grid;
+    grid-template-columns: 32% 50% 18%;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+.cartImg{
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
+.detailBox{
+    display: grid;
+    row-gap: 0.5rem;
+    font-size: 30px;
+    font-family: New Gulim;;
+}
+.cartQuantity{
+    width: 10rem;
+    border: 1px solid var(black);
+    outline-color: var(black);
+}
+.remove{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: rgb(253, 125, 125);
+    font-family: New Gulim;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.total{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    font-family: New Gulim;
+    font-size: 30px;
+}
+.buy{
+    font-size: 40px;
+    font-family: New Gulim;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 15px;
+    margin-left:  500px;
+    cursor: pointer;
+    border: none;
+    background-color:#FF9C9C;
+}
+.buy:hover{
+    background-color: rgb(250, 82, 82);
+    color: black;
+}
+
+
+                    /*PROFILE PAGE*/
+.profilePage1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.profilePage1List{
+    flex-basis: 50%;
+    flex-direction: column;
+    font-size: 30px;
+    font-family: New Gulim;
+}
+.debutImg{
+    width: 500px;
+    height: 400px;
+}
+.profilePage2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.profilePage2List{
+    flex-basis: 50%;
+    flex-direction: column;
+    font-size: 30px;
+    font-family: New Gulim;
+    margin-left: 20px;
+}
+
+/*to individual page*/
+.members{
+    margin-left: 20px;
+}
+.name{
+    margin-left: 200px;
+}
+.name{
+    font-size: 30px;
+    font-family: New Gulim;
+    color: black;
+}
+/*position*/
+.indivProfileContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.indivProfileItem{
+    flex-basis: 50%;
+    flex-direction: column;
+    font-size: 40px;
+    font-family: New Gulim;
+    margin-bottom: 40px;
+}
+
+                /*CONCERT PAGE*/
+.concertH3{
+    margin-left: 20px;
+}
+.concertContent{
+    font-family: Segoe UI;
+    font-size: 25px;
+}
+.concertContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.concertItem{
+    flex-basis: 50%;
+    flex-direction: column;
+}
+.concertImg_ticket{
+    height: 430px;
+    width: 450px;
+}
+.seatingPlan{
+    height: 700px;
+    width: 600px;
+}
+.seatingContent{
+    font-family: New Gulim;
+    font-size: 25px;
+    line-height: 60px;
+}
+/*position*/
+.seatingContainer{
+    display:flex;
+}
+.seatingItem{
+    flex-basis: 50%;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.toTickets{
+    text-align: center;
+    font-family:Segoe UI;
+    color:#FBC1DE;
+    font-size: 30px;
+    margin: 20px;
+}
+
+
+.heading1{
+    font-family: STXihei;
+    font-size: 90px;
+    margin-top: 100px;
+}
+
+
+
+                
+
+                    /*MOBILE VIEW*/
+@media (max-width: 576px){
+    .mainNav{
+        position: static;
+    }
+    .navList{
+        margin-right: 20px;
+    }
+    .navContent{
+        margin: 50 px 0;
+        line-height: 30px;
+    }
+    .navContent a{
+        font-size: 20px;
+    }
+    .logoimg{
+        margin-left: 25%;
+    }
+    .heading1{
+        font-size: 50px;
+        margin:40px;
+        margin-left: 0;
+        line-height: 50px;
+    }
+    .homeHeading{
+        line-height: 5px;
+    }
+    h2{
+        font-size: 30px;
+    }
+    .updateContent{
+        font-size: 20px;
+    }
+    .mainHeading_container{
+        flex-wrap: wrap;
+    }
+    .updateList{
+        padding-bottom: 0px;
+    }
+    .headingimg{
+        width: 320px;
+        height: 266px;
+        margin-top: 00px;
+    }
+
+    li, p{
+        font-size: 20px;
+    }
+    .ticketsContainer{
+        flex-wrap: wrap;
+        margin-left: 50px;
+    }
+    .ticketsContent{
+        line-height: 30px;
+    }
+    .concertImg{
+        width: 286px;
+        height: 266px;
+    }
+
+    /* PROFILE */
+    .profileContainer{
+        flex-wrap:wrap;
+    }
+    .profileItem{
+        margin-left: 60px;
+    }
+    .aboutContent{
+        font-size: 20px;
+    }
+    #navFromHome a{
+        font-size: 25px;
+    }
+    .grpPhoto_home{
+        width: 286px;
+        height: 266px;
+        padding-left: 80px;
+    }
+    .homeMerchContainer{
+        margin-left: 80px;
+    }
+    iframe{
+        width:400px;
+        height:300px;
+        margin-left: 20px;
+    }
+    .footerList{
+        margin-right: 40px;
+    }
+    .navFooterContent{
+        font-size: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+        line-height: 30px;
+    }
+}
+    
+
